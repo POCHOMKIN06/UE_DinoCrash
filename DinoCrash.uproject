@@ -10,6 +10,11 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "ShortcutKeysToSwitchLanguages",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1afbca76522b41bf989c31c93540abcd"
 		}
 	]
 }
